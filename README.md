@@ -30,6 +30,4 @@ the ensure your Spring app _is running_.
 
 * https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
 * https://www.javascripttutorial.net/javascript-fetch-api/
-* https://rickandmortyapi.com/
-
-:laugh:
+* https://rickandmortyapi.com/ :joy:
